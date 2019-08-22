@@ -1,13 +1,12 @@
 import React from 'react'
-import Navbar from "./../components/navbar"
+import Layout from "./../components/Layout"
 
 function Contact() {
     return (
-        <div>
+        <Layout>
             Contact Us
-            <hr/>
-            <Navbar />
-        </div>
+            
+        </Layout>
     )
 }
 

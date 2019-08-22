@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./../components/navbar";
+import Layout from "./../components/Layout";
 
 function About() {
   return (
-    <Navbar>
+    <Layout>
       <div>About us</div>
-    </Navbar>
+    </Layout>
   );
 }
 
