@@ -4,7 +4,7 @@ import Layout from "./../components/Layout";
 function About() {
   return (
     <Layout>
-      <div>About us</div>
+      <h1>About us</h1>
     </Layout>
   );
 }
