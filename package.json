@@ -1,0 +1,27 @@
+{
+  "name": "DilogFlowGateway",
+  "version": "1.0.0",
+  "description": "API Gateway between Dllogflow and your internal microservices",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanmarathe/DilogFlowGateway.git"
+  },
+  "keywords": ["DilogFlow" , "Chatbot" , "Api Gateway"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanmarathe/DilogFlowGateway/issues"
+  },
+  "homepage": "https://github.com/darshanmarathe/DilogFlowGateway#readme",
+  "dependencies": {
+    "next": "^9.0.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
